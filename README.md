@@ -51,8 +51,5 @@ FFT enables signal compression, filtering and transmission by separating signals
 _Future Work Ideas_
 1. Apply the same methodology to real observational data.
 2. Extend the model to detect multiple pulsar signals.
-<<<<<<< Updated upstream
 3. Incorporate methods that can handle irregular sampling.
-=======
-3. Incorporate methods that can handle irregular sampling.
->>>>>>> Stashed changes
+
