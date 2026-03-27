@@ -3,7 +3,7 @@ _Overview_
 Pulsars are extremely precise, even more precise than atomic clocks.
 They act like a celestial GPS, helping us navigate the dark void of space and map the vast reaches of our galaxy.
 They are invaluable for science as they help test Einstein's theory of relativity and/or detect gravitational waves.
-This project explores how Fast Fourier Transform (FFT) detects periodic signals (eg: of pulsars)
+This project explores how Fast Fourier Transform (FFT) detects periodic signals (eg: of pulsars).
 
 _Background_
 A pulsar is a rapidly spinning neutron star that emits periodic bursts of electromagnetic radiation that appear as beams of light sweeping the sky.
